@@ -1,4 +1,6 @@
+웹소켓가지고 기본적인 채팅어플 만든거
 
+---
 # Socket.IO Chat
 
 A simple chat demo for socket.io
